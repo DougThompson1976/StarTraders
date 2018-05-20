@@ -1,2 +1,0 @@
-# StarTraders
-Star Traders
